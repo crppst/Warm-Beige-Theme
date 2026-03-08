@@ -1,0 +1,21 @@
+{
+     "name": "warm-beige-theme",
+     "displayName": "Warm Beige Theme",
+     "description": "Great warm theme",
+     "version": "0.0.1",
+     "engines": {
+       "vscode": "^1.60.0"
+     },
+     "categories": [
+       "Themes"
+     ],
+     "contributes": {
+       "themes": [
+         {
+           "label": "Warm Beige",
+           "uiTheme": "vs-dark",
+           "path": "./themes/warm-beige.json"
+         }
+       ]
+     }
+   }
